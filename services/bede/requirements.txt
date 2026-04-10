@@ -1,5 +1,0 @@
-flask>=3.0.0
-werkzeug>=3.0.0
-
-# For actual data loading (when integrated with sancta_via)
-# The real implementation will export sancta_via data to JSON

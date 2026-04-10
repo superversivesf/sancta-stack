@@ -1,1 +1,0 @@
-# Bede service package\n
