@@ -9,9 +9,18 @@ services:
     environment:
       - SERVICE_NAME=bede
       - SERVICE_PORT=3000
+      - BEDE_DIOCESE=united-states
+      - DEBUG=false
+    volumes:
+      - bede-data:/data
     networks:
       - sancta-network
     restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
 
   # scriptura:
   #   build: ./services/scriptura
@@ -40,6 +49,7 @@ networks:
     name: sancta-network
     driver: bridge
 
-# volumes:
-#   scriptura-data:
-#   doctrina-data:
+volumes:
+  bede-data:
+  # scriptura-data:
+  # doctrina-data:
