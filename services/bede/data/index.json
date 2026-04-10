@@ -1,0 +1,66 @@
+{
+  "years": [
+    {
+      "year": 2024,
+      "days": 366,
+      "file": "liturgical_2024.json"
+    },
+    {
+      "year": 2025,
+      "days": 365,
+      "file": "liturgical_2025.json"
+    },
+    {
+      "year": 2026,
+      "days": 365,
+      "file": "liturgical_2026.json"
+    },
+    {
+      "year": 2027,
+      "days": 365,
+      "file": "liturgical_2027.json"
+    },
+    {
+      "year": 2028,
+      "days": 366,
+      "file": "liturgical_2028.json"
+    },
+    {
+      "year": 2029,
+      "days": 365,
+      "file": "liturgical_2029.json"
+    },
+    {
+      "year": 2030,
+      "days": 365,
+      "file": "liturgical_2030.json"
+    },
+    {
+      "year": 2031,
+      "days": 365,
+      "file": "liturgical_2031.json"
+    },
+    {
+      "year": 2032,
+      "days": 366,
+      "file": "liturgical_2032.json"
+    },
+    {
+      "year": 2033,
+      "days": 365,
+      "file": "liturgical_2033.json"
+    },
+    {
+      "year": 2034,
+      "days": 365,
+      "file": "liturgical_2034.json"
+    },
+    {
+      "year": 2035,
+      "days": 365,
+      "file": "liturgical_2035.json"
+    }
+  ],
+  "source": "sancta_via_liturgical_calendar",
+  "romcal_version": "1.3.0"
+}

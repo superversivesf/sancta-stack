@@ -1,0 +1,4739 @@
+{
+  "2030-01-01": {
+    "date": "2030-01-01",
+    "year": 2030,
+    "season": "Christmas",
+    "season_key": "Christmastide",
+    "celebration": {
+      "name": "Mary, Mother of God",
+      "type": "SOLEMNITY",
+      "color": "white",
+      "key": "maryMotherOfGod",
+      "prioritized": true
+    }
+  },
+  "2030-01-02": {
+    "date": "2030-01-02",
+    "year": 2030,
+    "season": "Christmas",
+    "season_key": "Christmastide",
+    "celebration": {
+      "name": "Saints Basil the Great and Gregory Nazianzen, Bishops and Doctors",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintsBasilTheGreatAndGregoryNazianzenBishopsAndDoctors",
+      "prioritized": false
+    }
+  },
+  "2030-01-03": {
+    "date": "2030-01-03",
+    "year": 2030,
+    "season": "Christmas",
+    "season_key": "Christmastide",
+    "celebration": {
+      "name": "The Most Holy Name of Jesus",
+      "type": "OPT_MEMORIAL",
+      "color": "white",
+      "key": "theMostHolyNameOfJesus",
+      "prioritized": false
+    }
+  },
+  "2030-01-04": {
+    "date": "2030-01-04",
+    "year": 2030,
+    "season": "Christmas",
+    "season_key": "Christmastide",
+    "celebration": {
+      "name": "Friday before Epiphany",
+      "type": "FERIA",
+      "color": "white",
+      "key": "fridayBeforeEpiphany",
+      "prioritized": false
+    }
+  },
+  "2030-01-05": {
+    "date": "2030-01-05",
+    "year": 2030,
+    "season": "Christmas",
+    "season_key": "Christmastide",
+    "celebration": {
+      "name": "Saturday before Epiphany",
+      "type": "FERIA",
+      "color": "white",
+      "key": "saturdayBeforeEpiphany",
+      "prioritized": false
+    }
+  },
+  "2030-01-06": {
+    "date": "2030-01-06",
+    "year": 2030,
+    "season": "Christmas",
+    "season_key": "Christmastide",
+    "celebration": {
+      "name": "Epiphany",
+      "type": "SOLEMNITY",
+      "color": "white",
+      "key": "epiphany",
+      "prioritized": true
+    }
+  },
+  "2030-01-07": {
+    "date": "2030-01-07",
+    "year": 2030,
+    "season": "Christmas",
+    "season_key": "Christmastide",
+    "celebration": {
+      "name": "Saint Raymond of Penyafort, Priest",
+      "type": "OPT_MEMORIAL",
+      "color": "white",
+      "key": "saintRaymondOfPenyafortPriest",
+      "prioritized": false
+    }
+  },
+  "2030-01-08": {
+    "date": "2030-01-08",
+    "year": 2030,
+    "season": "Christmas",
+    "season_key": "Christmastide",
+    "celebration": {
+      "name": "Tuesday after Epiphany",
+      "type": "FERIA",
+      "color": "white",
+      "key": "tuesdayAfterEpiphany",
+      "prioritized": false
+    }
+  },
+  "2030-01-09": {
+    "date": "2030-01-09",
+    "year": 2030,
+    "season": "Christmas",
+    "season_key": "Christmastide",
+    "celebration": {
+      "name": "Wednesday after Epiphany",
+      "type": "FERIA",
+      "color": "white",
+      "key": "wednesdayAfterEpiphany",
+      "prioritized": false
+    }
+  },
+  "2030-01-10": {
+    "date": "2030-01-10",
+    "year": 2030,
+    "season": "Christmas",
+    "season_key": "Christmastide",
+    "celebration": {
+      "name": "Thursday after Epiphany",
+      "type": "FERIA",
+      "color": "white",
+      "key": "thursdayAfterEpiphany",
+      "prioritized": false
+    }
+  },
+  "2030-01-11": {
+    "date": "2030-01-11",
+    "year": 2030,
+    "season": "Christmas",
+    "season_key": "Christmastide",
+    "celebration": {
+      "name": "Friday after Epiphany",
+      "type": "FERIA",
+      "color": "white",
+      "key": "fridayAfterEpiphany",
+      "prioritized": false
+    }
+  },
+  "2030-01-12": {
+    "date": "2030-01-12",
+    "year": 2030,
+    "season": "Christmas",
+    "season_key": "Christmastide",
+    "celebration": {
+      "name": "Saturday after Epiphany",
+      "type": "FERIA",
+      "color": "white",
+      "key": "saturdayAfterEpiphany",
+      "prioritized": false
+    }
+  },
+  "2030-01-13": {
+    "date": "2030-01-13",
+    "year": 2030,
+    "season": "Christmas",
+    "season_key": "Christmastide",
+    "celebration": {
+      "name": "Baptism of the Lord",
+      "type": "FEAST",
+      "color": "white",
+      "key": "baptismOfTheLord",
+      "prioritized": true
+    }
+  },
+  "2030-01-14": {
+    "date": "2030-01-14",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Monday of the 1st week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "mondayOfThe1stWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-01-15": {
+    "date": "2030-01-15",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Tuesday of the 1st week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "tuesdayOfThe1stWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-01-16": {
+    "date": "2030-01-16",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Wednesday of the 1st week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "wednesdayOfThe1stWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-01-17": {
+    "date": "2030-01-17",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Saint Anthony of Egypt, Abbot",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintAnthonyOfEgyptAbbot",
+      "prioritized": false
+    }
+  },
+  "2030-01-18": {
+    "date": "2030-01-18",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Friday of the 1st week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "fridayOfThe1stWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-01-19": {
+    "date": "2030-01-19",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Saturday of the 1st week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "saturdayOfThe1stWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-01-20": {
+    "date": "2030-01-20",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "2nd Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "2ndSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-01-21": {
+    "date": "2030-01-21",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Saint Agnes, Virgin and Martyr",
+      "type": "MEMORIAL",
+      "color": "red",
+      "key": "saintAgnesVirginAndMartyr",
+      "prioritized": false
+    }
+  },
+  "2030-01-22": {
+    "date": "2030-01-22",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Saint Vincent, Deacon and Martyr",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintVincentDeaconAndMartyr",
+      "prioritized": false
+    }
+  },
+  "2030-01-23": {
+    "date": "2030-01-23",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Wednesday of the 2nd week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "wednesdayOfThe2ndWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-01-24": {
+    "date": "2030-01-24",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Saint Francis de Sales, Bishop and Doctor",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintFrancisDeSalesBishopAndDoctor",
+      "prioritized": false
+    }
+  },
+  "2030-01-25": {
+    "date": "2030-01-25",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Conversion of Saint Paul, Apostle",
+      "type": "FEAST",
+      "color": "white",
+      "key": "conversionOfSaintPaulApostle",
+      "prioritized": false
+    }
+  },
+  "2030-01-26": {
+    "date": "2030-01-26",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Saints Timothy and Titus, Bishops",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintsTimothyAndTitusBishops",
+      "prioritized": false
+    }
+  },
+  "2030-01-27": {
+    "date": "2030-01-27",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "3rd Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "3rdSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-01-28": {
+    "date": "2030-01-28",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Saint Thomas Aquinas, Priest and Doctor",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintThomasAquinasPriestAndDoctor",
+      "prioritized": false
+    }
+  },
+  "2030-01-29": {
+    "date": "2030-01-29",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Tuesday of the 3rd week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "tuesdayOfThe3rdWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-01-30": {
+    "date": "2030-01-30",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Wednesday of the 3rd week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "wednesdayOfThe3rdWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-01-31": {
+    "date": "2030-01-31",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Saint John Bosco, Priest",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintJohnBoscoPriest",
+      "prioritized": false
+    }
+  },
+  "2030-02-01": {
+    "date": "2030-02-01",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Friday of the 3rd week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "fridayOfThe3rdWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-02-02": {
+    "date": "2030-02-02",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Presentation of the Lord",
+      "type": "FEAST",
+      "color": "white",
+      "key": "presentationOfTheLord",
+      "prioritized": true
+    }
+  },
+  "2030-02-03": {
+    "date": "2030-02-03",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "4th Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "4thSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-02-04": {
+    "date": "2030-02-04",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Monday of the 4th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "mondayOfThe4thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-02-05": {
+    "date": "2030-02-05",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Saint Agatha, Virgin and Martyr",
+      "type": "MEMORIAL",
+      "color": "red",
+      "key": "saintAgathaVirginAndMartyr",
+      "prioritized": false
+    }
+  },
+  "2030-02-06": {
+    "date": "2030-02-06",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Saint Paul Miki and Companions, Martyrs",
+      "type": "MEMORIAL",
+      "color": "red",
+      "key": "saintPaulMikiAndCompanionsMartyrs",
+      "prioritized": false
+    }
+  },
+  "2030-02-07": {
+    "date": "2030-02-07",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Thursday of the 4th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "thursdayOfThe4thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-02-08": {
+    "date": "2030-02-08",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Saint Jerome Emiliani and Saint Josephine Bakhita, Virgin",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintJeromeEmilianiSaintJosephineBakhitaVirgin",
+      "prioritized": false
+    }
+  },
+  "2030-02-09": {
+    "date": "2030-02-09",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Saturday of the 4th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "saturdayOfThe4thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-02-10": {
+    "date": "2030-02-10",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "5th Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "5thSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-02-11": {
+    "date": "2030-02-11",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Our Lady of Lourdes",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "ourLadyOfLourdes",
+      "prioritized": false
+    }
+  },
+  "2030-02-12": {
+    "date": "2030-02-12",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Tuesday of the 5th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "tuesdayOfThe5thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-02-13": {
+    "date": "2030-02-13",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Wednesday of the 5th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "wednesdayOfThe5thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-02-14": {
+    "date": "2030-02-14",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Saints Cyril, Monk and Methodius, Bishop",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintsCyrilMonkAndMethodiusBishop",
+      "prioritized": false
+    }
+  },
+  "2030-02-15": {
+    "date": "2030-02-15",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Friday of the 5th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "fridayOfThe5thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-02-16": {
+    "date": "2030-02-16",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Saturday of the 5th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "saturdayOfThe5thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-02-17": {
+    "date": "2030-02-17",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "6th Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "6thSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-02-18": {
+    "date": "2030-02-18",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Monday of the 6th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "mondayOfThe6thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-02-19": {
+    "date": "2030-02-19",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Tuesday of the 6th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "tuesdayOfThe6thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-02-20": {
+    "date": "2030-02-20",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Wednesday of the 6th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "wednesdayOfThe6thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-02-21": {
+    "date": "2030-02-21",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Saint Peter Damian, Bishop and Doctor of the Church",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintPeterDamianBishopAndDoctorOfTheChurch",
+      "prioritized": false
+    }
+  },
+  "2030-02-22": {
+    "date": "2030-02-22",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Chair of Saint Peter, Apostle",
+      "type": "FEAST",
+      "color": "white",
+      "key": "chairOfSaintPeterApostle",
+      "prioritized": false
+    }
+  },
+  "2030-02-23": {
+    "date": "2030-02-23",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Saint Polycarp, Bishop and Martyr",
+      "type": "MEMORIAL",
+      "color": "red",
+      "key": "saintPolycarpBishopAndMartyr",
+      "prioritized": false
+    }
+  },
+  "2030-02-24": {
+    "date": "2030-02-24",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "7th Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "7thSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-02-25": {
+    "date": "2030-02-25",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Monday of the 7th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "mondayOfThe7thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-02-26": {
+    "date": "2030-02-26",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Tuesday of the 7th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "tuesdayOfThe7thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-02-27": {
+    "date": "2030-02-27",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Wednesday of the 7th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "wednesdayOfThe7thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-02-28": {
+    "date": "2030-02-28",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Thursday of the 7th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "thursdayOfThe7thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-03-01": {
+    "date": "2030-03-01",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Friday of the 7th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "fridayOfThe7thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-03-02": {
+    "date": "2030-03-02",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Saturday of the 7th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "saturdayOfThe7thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-03-03": {
+    "date": "2030-03-03",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "8th Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "8thSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-03-04": {
+    "date": "2030-03-04",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Saint Casimir",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintCasimir",
+      "prioritized": false
+    }
+  },
+  "2030-03-05": {
+    "date": "2030-03-05",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Early Ordinary Time",
+    "celebration": {
+      "name": "Tuesday of the 8th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "tuesdayOfThe8thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-03-06": {
+    "date": "2030-03-06",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Ash Wednesday",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "ashWednesday",
+      "prioritized": true
+    }
+  },
+  "2030-03-07": {
+    "date": "2030-03-07",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Saints Perpetua and Felicity, Martyrs",
+      "type": "COMMEMORATION",
+      "color": "red",
+      "key": "saintsPerpetuaAndFelicityMartyrs",
+      "prioritized": false
+    }
+  },
+  "2030-03-08": {
+    "date": "2030-03-08",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Saint John of God, Religious",
+      "type": "COMMEMORATION",
+      "color": "purple",
+      "key": "saintJohnOfGodReligious",
+      "prioritized": false
+    }
+  },
+  "2030-03-09": {
+    "date": "2030-03-09",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Saint Frances of Rome, Religious",
+      "type": "COMMEMORATION",
+      "color": "purple",
+      "key": "saintFrancesOfRomeReligious",
+      "prioritized": false
+    }
+  },
+  "2030-03-10": {
+    "date": "2030-03-10",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "1st Sunday of Lent",
+      "type": "SUNDAY",
+      "color": "purple",
+      "key": "1stSundayOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-03-11": {
+    "date": "2030-03-11",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Monday of the 1st week of Lent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "mondayOfThe1stWeekOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-03-12": {
+    "date": "2030-03-12",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Tuesday of the 1st week of Lent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "tuesdayOfThe1stWeekOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-03-13": {
+    "date": "2030-03-13",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Wednesday of the 1st week of Lent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "wednesdayOfThe1stWeekOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-03-14": {
+    "date": "2030-03-14",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Thursday of the 1st week of Lent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "thursdayOfThe1stWeekOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-03-15": {
+    "date": "2030-03-15",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Friday of the 1st week of Lent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "fridayOfThe1stWeekOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-03-16": {
+    "date": "2030-03-16",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Saturday of the 1st week of Lent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "saturdayOfThe1stWeekOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-03-17": {
+    "date": "2030-03-17",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "2nd Sunday of Lent",
+      "type": "SUNDAY",
+      "color": "purple",
+      "key": "2ndSundayOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-03-18": {
+    "date": "2030-03-18",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Saint Cyril of Jerusalem, Bishop and Doctor",
+      "type": "COMMEMORATION",
+      "color": "purple",
+      "key": "saintCyrilOfJerusalemBishopAndDoctor",
+      "prioritized": false
+    }
+  },
+  "2030-03-19": {
+    "date": "2030-03-19",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Joseph, Husband of Mary",
+      "type": "SOLEMNITY",
+      "color": "white",
+      "key": "josephHusbandOfMary",
+      "prioritized": true
+    }
+  },
+  "2030-03-20": {
+    "date": "2030-03-20",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Wednesday of the 2nd week of Lent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "wednesdayOfThe2ndWeekOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-03-21": {
+    "date": "2030-03-21",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Thursday of the 2nd week of Lent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "thursdayOfThe2ndWeekOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-03-22": {
+    "date": "2030-03-22",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Friday of the 2nd week of Lent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "fridayOfThe2ndWeekOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-03-23": {
+    "date": "2030-03-23",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Saint Turibius of Mogrovejo, Bishop",
+      "type": "COMMEMORATION",
+      "color": "purple",
+      "key": "saintTuribiusOfMogrovejoBishop",
+      "prioritized": false
+    }
+  },
+  "2030-03-24": {
+    "date": "2030-03-24",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "3rd Sunday of Lent",
+      "type": "SUNDAY",
+      "color": "purple",
+      "key": "3rdSundayOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-03-25": {
+    "date": "2030-03-25",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Annunciation",
+      "type": "SOLEMNITY",
+      "color": "white",
+      "key": "annunciation",
+      "prioritized": true
+    }
+  },
+  "2030-03-26": {
+    "date": "2030-03-26",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Tuesday of the 3rd week of Lent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "tuesdayOfThe3rdWeekOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-03-27": {
+    "date": "2030-03-27",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Wednesday of the 3rd week of Lent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "wednesdayOfThe3rdWeekOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-03-28": {
+    "date": "2030-03-28",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Thursday of the 3rd week of Lent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "thursdayOfThe3rdWeekOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-03-29": {
+    "date": "2030-03-29",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Friday of the 3rd week of Lent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "fridayOfThe3rdWeekOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-03-30": {
+    "date": "2030-03-30",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Saturday of the 3rd week of Lent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "saturdayOfThe3rdWeekOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-03-31": {
+    "date": "2030-03-31",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "4th Sunday of Lent",
+      "type": "SUNDAY",
+      "color": "rose",
+      "key": "4thSundayOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-04-01": {
+    "date": "2030-04-01",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Monday of the 4th week of Lent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "mondayOfThe4thWeekOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-04-02": {
+    "date": "2030-04-02",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Saint Francis of Paola, Hermit",
+      "type": "COMMEMORATION",
+      "color": "purple",
+      "key": "saintFrancisOfPaolaHermit",
+      "prioritized": false
+    }
+  },
+  "2030-04-03": {
+    "date": "2030-04-03",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Wednesday of the 4th week of Lent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "wednesdayOfThe4thWeekOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-04-04": {
+    "date": "2030-04-04",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Saint Isidore of Seville, Bishop and Doctor of the Church",
+      "type": "COMMEMORATION",
+      "color": "purple",
+      "key": "saintIsidoreOfSevilleBishopAndDoctorOfTheChurch",
+      "prioritized": false
+    }
+  },
+  "2030-04-05": {
+    "date": "2030-04-05",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Saint Vincent Ferrer, Priest",
+      "type": "COMMEMORATION",
+      "color": "purple",
+      "key": "saintVincentFerrerPriest",
+      "prioritized": false
+    }
+  },
+  "2030-04-06": {
+    "date": "2030-04-06",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Saturday of the 4th week of Lent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "saturdayOfThe4thWeekOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-04-07": {
+    "date": "2030-04-07",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "5th Sunday of Lent",
+      "type": "SUNDAY",
+      "color": "purple",
+      "key": "5thSundayOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-04-08": {
+    "date": "2030-04-08",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Monday of the 5th week of Lent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "mondayOfThe5thWeekOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-04-09": {
+    "date": "2030-04-09",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Tuesday of the 5th week of Lent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "tuesdayOfThe5thWeekOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-04-10": {
+    "date": "2030-04-10",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Wednesday of the 5th week of Lent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "wednesdayOfThe5thWeekOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-04-11": {
+    "date": "2030-04-11",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Saint Stanislaus, Bishop and Martyr",
+      "type": "COMMEMORATION",
+      "color": "red",
+      "key": "saintStanislausBishopAndMartyr",
+      "prioritized": false
+    }
+  },
+  "2030-04-12": {
+    "date": "2030-04-12",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Friday of the 5th week of Lent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "fridayOfThe5thWeekOfLent",
+      "prioritized": false
+    }
+  },
+  "2030-04-13": {
+    "date": "2030-04-13",
+    "year": 2030,
+    "season": "Lent",
+    "season_key": "Lent",
+    "celebration": {
+      "name": "Saint Martin I, Pope and Martyr",
+      "type": "COMMEMORATION",
+      "color": "red",
+      "key": "saintMartinIPopeAndMartyr",
+      "prioritized": false
+    }
+  },
+  "2030-04-14": {
+    "date": "2030-04-14",
+    "year": 2030,
+    "season": "Holy Week",
+    "season_key": "Holy Week",
+    "celebration": {
+      "name": "Palm Sunday",
+      "type": "SUNDAY",
+      "color": "red",
+      "key": "palmSunday",
+      "prioritized": true
+    }
+  },
+  "2030-04-15": {
+    "date": "2030-04-15",
+    "year": 2030,
+    "season": "Holy Week",
+    "season_key": "Holy Week",
+    "celebration": {
+      "name": "Monday of Holy Week",
+      "type": "HOLY_WEEK",
+      "color": "purple",
+      "key": "mondayOfHolyWeek",
+      "prioritized": false
+    }
+  },
+  "2030-04-16": {
+    "date": "2030-04-16",
+    "year": 2030,
+    "season": "Holy Week",
+    "season_key": "Holy Week",
+    "celebration": {
+      "name": "Tuesday of Holy Week",
+      "type": "HOLY_WEEK",
+      "color": "purple",
+      "key": "tuesdayOfHolyWeek",
+      "prioritized": false
+    }
+  },
+  "2030-04-17": {
+    "date": "2030-04-17",
+    "year": 2030,
+    "season": "Holy Week",
+    "season_key": "Holy Week",
+    "celebration": {
+      "name": "Wednesday of Holy Week",
+      "type": "HOLY_WEEK",
+      "color": "purple",
+      "key": "wednesdayOfHolyWeek",
+      "prioritized": false
+    }
+  },
+  "2030-04-18": {
+    "date": "2030-04-18",
+    "year": 2030,
+    "season": "Holy Week",
+    "season_key": "Holy Week",
+    "celebration": {
+      "name": "Holy Thursday",
+      "type": "TRIDUUM",
+      "color": "white",
+      "key": "holyThursday",
+      "prioritized": true
+    }
+  },
+  "2030-04-19": {
+    "date": "2030-04-19",
+    "year": 2030,
+    "season": "Holy Week",
+    "season_key": "Holy Week",
+    "celebration": {
+      "name": "Good Friday",
+      "type": "TRIDUUM",
+      "color": "red",
+      "key": "goodFriday",
+      "prioritized": true
+    }
+  },
+  "2030-04-20": {
+    "date": "2030-04-20",
+    "year": 2030,
+    "season": "Holy Week",
+    "season_key": "Holy Week",
+    "celebration": {
+      "name": "Holy Saturday/Easter Vigil",
+      "type": "TRIDUUM",
+      "color": "white",
+      "key": "holySaturday",
+      "prioritized": true
+    }
+  },
+  "2030-04-21": {
+    "date": "2030-04-21",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Easter Sunday",
+      "type": "SOLEMNITY",
+      "color": "white",
+      "key": "easter",
+      "prioritized": true
+    }
+  },
+  "2030-04-22": {
+    "date": "2030-04-22",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Easter Monday",
+      "type": "SOLEMNITY",
+      "color": "white",
+      "key": "easterMonday",
+      "prioritized": true
+    }
+  },
+  "2030-04-23": {
+    "date": "2030-04-23",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Easter Tuesday",
+      "type": "SOLEMNITY",
+      "color": "white",
+      "key": "easterTuesday",
+      "prioritized": true
+    }
+  },
+  "2030-04-24": {
+    "date": "2030-04-24",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Easter Wednesday",
+      "type": "SOLEMNITY",
+      "color": "white",
+      "key": "easterWednesday",
+      "prioritized": true
+    }
+  },
+  "2030-04-25": {
+    "date": "2030-04-25",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Easter Thursday",
+      "type": "SOLEMNITY",
+      "color": "white",
+      "key": "easterThursday",
+      "prioritized": true
+    }
+  },
+  "2030-04-26": {
+    "date": "2030-04-26",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Easter Friday",
+      "type": "SOLEMNITY",
+      "color": "white",
+      "key": "easterFriday",
+      "prioritized": true
+    }
+  },
+  "2030-04-27": {
+    "date": "2030-04-27",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Easter Saturday",
+      "type": "SOLEMNITY",
+      "color": "white",
+      "key": "easterSaturday",
+      "prioritized": true
+    }
+  },
+  "2030-04-28": {
+    "date": "2030-04-28",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Divine Mercy Sunday",
+      "type": "SOLEMNITY",
+      "color": "white",
+      "key": "divineMercySunday",
+      "prioritized": true
+    }
+  },
+  "2030-04-29": {
+    "date": "2030-04-29",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintCatherineOfSienaVirginAndDoctorOfTheChurch",
+      "prioritized": true
+    }
+  },
+  "2030-04-30": {
+    "date": "2030-04-30",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Saint Pius V, Pope",
+      "type": "OPT_MEMORIAL",
+      "color": "white",
+      "key": "saintPiusVPope",
+      "prioritized": true
+    }
+  },
+  "2030-05-01": {
+    "date": "2030-05-01",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Saint Joseph the Worker",
+      "type": "OPT_MEMORIAL",
+      "color": "white",
+      "key": "saintJosephTheWorker",
+      "prioritized": true
+    }
+  },
+  "2030-05-02": {
+    "date": "2030-05-02",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Saint Athanasius, Bishop and Doctor",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintAthanasiusBishopAndDoctor",
+      "prioritized": true
+    }
+  },
+  "2030-05-03": {
+    "date": "2030-05-03",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Saints Philip and James, Apostles",
+      "type": "FEAST",
+      "color": "white",
+      "key": "saintsPhilipAndJamesApostles",
+      "prioritized": true
+    }
+  },
+  "2030-05-04": {
+    "date": "2030-05-04",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Saturday of the 2nd week of Easter",
+      "type": "FERIA",
+      "color": "white",
+      "key": "saturdayOfThe2ndWeekOfEaster",
+      "prioritized": true
+    }
+  },
+  "2030-05-05": {
+    "date": "2030-05-05",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "3rd Sunday of Easter",
+      "type": "SUNDAY",
+      "color": "white",
+      "key": "3rdSundayOfEaster",
+      "prioritized": false
+    }
+  },
+  "2030-05-06": {
+    "date": "2030-05-06",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Monday of the 3rd week of Easter",
+      "type": "FERIA",
+      "color": "white",
+      "key": "mondayOfThe3rdWeekOfEaster",
+      "prioritized": true
+    }
+  },
+  "2030-05-07": {
+    "date": "2030-05-07",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Tuesday of the 3rd week of Easter",
+      "type": "FERIA",
+      "color": "white",
+      "key": "tuesdayOfThe3rdWeekOfEaster",
+      "prioritized": true
+    }
+  },
+  "2030-05-08": {
+    "date": "2030-05-08",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Wednesday of the 3rd week of Easter",
+      "type": "FERIA",
+      "color": "white",
+      "key": "wednesdayOfThe3rdWeekOfEaster",
+      "prioritized": true
+    }
+  },
+  "2030-05-09": {
+    "date": "2030-05-09",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Thursday of the 3rd week of Easter",
+      "type": "FERIA",
+      "color": "white",
+      "key": "thursdayOfThe3rdWeekOfEaster",
+      "prioritized": true
+    }
+  },
+  "2030-05-10": {
+    "date": "2030-05-10",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Friday of the 3rd week of Easter",
+      "type": "FERIA",
+      "color": "white",
+      "key": "fridayOfThe3rdWeekOfEaster",
+      "prioritized": true
+    }
+  },
+  "2030-05-11": {
+    "date": "2030-05-11",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Saturday of the 3rd week of Easter",
+      "type": "FERIA",
+      "color": "white",
+      "key": "saturdayOfThe3rdWeekOfEaster",
+      "prioritized": true
+    }
+  },
+  "2030-05-12": {
+    "date": "2030-05-12",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "4th Sunday of Easter",
+      "type": "SUNDAY",
+      "color": "white",
+      "key": "4thSundayOfEaster",
+      "prioritized": false
+    }
+  },
+  "2030-05-13": {
+    "date": "2030-05-13",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Our Lady of Fatima",
+      "type": "OPT_MEMORIAL",
+      "color": "white",
+      "key": "ourLadyOfFatima",
+      "prioritized": true
+    }
+  },
+  "2030-05-14": {
+    "date": "2030-05-14",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Saint Matthias the Apostle",
+      "type": "FEAST",
+      "color": "white",
+      "key": "saintMatthiasTheApostle",
+      "prioritized": true
+    }
+  },
+  "2030-05-15": {
+    "date": "2030-05-15",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Wednesday of the 4th week of Easter",
+      "type": "FERIA",
+      "color": "white",
+      "key": "wednesdayOfThe4thWeekOfEaster",
+      "prioritized": true
+    }
+  },
+  "2030-05-16": {
+    "date": "2030-05-16",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Thursday of the 4th week of Easter",
+      "type": "FERIA",
+      "color": "white",
+      "key": "thursdayOfThe4thWeekOfEaster",
+      "prioritized": true
+    }
+  },
+  "2030-05-17": {
+    "date": "2030-05-17",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Friday of the 4th week of Easter",
+      "type": "FERIA",
+      "color": "white",
+      "key": "fridayOfThe4thWeekOfEaster",
+      "prioritized": true
+    }
+  },
+  "2030-05-18": {
+    "date": "2030-05-18",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Saint John I, Pope and Martyr",
+      "type": "OPT_MEMORIAL",
+      "color": "white",
+      "key": "saintJohnIPopeAndMartyr",
+      "prioritized": true
+    }
+  },
+  "2030-05-19": {
+    "date": "2030-05-19",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "5th Sunday of Easter",
+      "type": "SUNDAY",
+      "color": "white",
+      "key": "5thSundayOfEaster",
+      "prioritized": false
+    }
+  },
+  "2030-05-20": {
+    "date": "2030-05-20",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Saint Bernardine of Siena, Priest",
+      "type": "OPT_MEMORIAL",
+      "color": "white",
+      "key": "saintBernardineOfSienaPriest",
+      "prioritized": true
+    }
+  },
+  "2030-05-21": {
+    "date": "2030-05-21",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Saint Christopher Magallanes and Companions, Martyrs",
+      "type": "OPT_MEMORIAL",
+      "color": "white",
+      "key": "saintChristopherMagallanesAndCompanionsMartyrs",
+      "prioritized": true
+    }
+  },
+  "2030-05-22": {
+    "date": "2030-05-22",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Saint Rita of Cascia",
+      "type": "OPT_MEMORIAL",
+      "color": "white",
+      "key": "saintRitaOfCascia",
+      "prioritized": true
+    }
+  },
+  "2030-05-23": {
+    "date": "2030-05-23",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Thursday of the 5th week of Easter",
+      "type": "FERIA",
+      "color": "white",
+      "key": "thursdayOfThe5thWeekOfEaster",
+      "prioritized": true
+    }
+  },
+  "2030-05-24": {
+    "date": "2030-05-24",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Friday of the 5th week of Easter",
+      "type": "FERIA",
+      "color": "white",
+      "key": "fridayOfThe5thWeekOfEaster",
+      "prioritized": true
+    }
+  },
+  "2030-05-25": {
+    "date": "2030-05-25",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Saint Bede the Venerable, Priest and Doctor/Saint Gregory VII, Pope/Saint Mary Magdalene de Pazzi, Virgin",
+      "type": "OPT_MEMORIAL",
+      "color": "white",
+      "key": "saintBedeTheVenerablePriestAndDoctorSaintGregoryViiPopeSaintMaryMagdaleneDePazziVirgin",
+      "prioritized": true
+    }
+  },
+  "2030-05-26": {
+    "date": "2030-05-26",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "6th Sunday of Easter",
+      "type": "SUNDAY",
+      "color": "white",
+      "key": "6thSundayOfEaster",
+      "prioritized": false
+    }
+  },
+  "2030-05-27": {
+    "date": "2030-05-27",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Saint Augustine of Canterbury, Bishop",
+      "type": "OPT_MEMORIAL",
+      "color": "white",
+      "key": "saintAugustineOfCanterburyBishop",
+      "prioritized": true
+    }
+  },
+  "2030-05-28": {
+    "date": "2030-05-28",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Tuesday of the 6th week of Easter",
+      "type": "FERIA",
+      "color": "white",
+      "key": "tuesdayOfThe6thWeekOfEaster",
+      "prioritized": true
+    }
+  },
+  "2030-05-29": {
+    "date": "2030-05-29",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Wednesday of the 6th week of Easter",
+      "type": "FERIA",
+      "color": "white",
+      "key": "wednesdayOfThe6thWeekOfEaster",
+      "prioritized": true
+    }
+  },
+  "2030-05-30": {
+    "date": "2030-05-30",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Ascension of the Lord",
+      "type": "SOLEMNITY",
+      "color": "white",
+      "key": "ascension",
+      "prioritized": true
+    }
+  },
+  "2030-05-31": {
+    "date": "2030-05-31",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Visitation of the Blessed Virgin Mary",
+      "type": "FEAST",
+      "color": "white",
+      "key": "visitationOfTheBlessedVirginMary",
+      "prioritized": true
+    }
+  },
+  "2030-06-01": {
+    "date": "2030-06-01",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Saint Justin Martyr",
+      "type": "MEMORIAL",
+      "color": "red",
+      "key": "saintJustinMartyr",
+      "prioritized": true
+    }
+  },
+  "2030-06-02": {
+    "date": "2030-06-02",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "7th Sunday of Easter",
+      "type": "SUNDAY",
+      "color": "white",
+      "key": "7thSundayOfEaster",
+      "prioritized": false
+    }
+  },
+  "2030-06-03": {
+    "date": "2030-06-03",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Saints Charles Lwanga and Companions, Martyrs",
+      "type": "MEMORIAL",
+      "color": "red",
+      "key": "saintsCharlesLwangaAndCompanionsMartyrs",
+      "prioritized": true
+    }
+  },
+  "2030-06-04": {
+    "date": "2030-06-04",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Tuesday of the 7th week of Easter",
+      "type": "FERIA",
+      "color": "white",
+      "key": "tuesdayOfThe7thWeekOfEaster",
+      "prioritized": true
+    }
+  },
+  "2030-06-05": {
+    "date": "2030-06-05",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Saint Boniface, Bishop and Martyr",
+      "type": "MEMORIAL",
+      "color": "red",
+      "key": "saintBonifaceBishopAndMartyr",
+      "prioritized": true
+    }
+  },
+  "2030-06-06": {
+    "date": "2030-06-06",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Saint Norbert, Bishop",
+      "type": "OPT_MEMORIAL",
+      "color": "white",
+      "key": "saintNorbertBishop",
+      "prioritized": true
+    }
+  },
+  "2030-06-07": {
+    "date": "2030-06-07",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Friday of the 7th week of Easter",
+      "type": "FERIA",
+      "color": "white",
+      "key": "fridayOfThe7thWeekOfEaster",
+      "prioritized": true
+    }
+  },
+  "2030-06-08": {
+    "date": "2030-06-08",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Saturday of the 7th week of Easter",
+      "type": "FERIA",
+      "color": "white",
+      "key": "saturdayOfThe7thWeekOfEaster",
+      "prioritized": true
+    }
+  },
+  "2030-06-09": {
+    "date": "2030-06-09",
+    "year": 2030,
+    "season": "Eastertide",
+    "season_key": "Easter",
+    "celebration": {
+      "name": "Pentecost Sunday",
+      "type": "SOLEMNITY",
+      "color": "red",
+      "key": "pentecostSunday",
+      "prioritized": true
+    }
+  },
+  "2030-06-10": {
+    "date": "2030-06-10",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Mary, Mother of The Church",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "maryMotherOfTheChurch",
+      "prioritized": true
+    }
+  },
+  "2030-06-11": {
+    "date": "2030-06-11",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Barnabas the Apostle",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintBarnabasTheApostle",
+      "prioritized": false
+    }
+  },
+  "2030-06-12": {
+    "date": "2030-06-12",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Wednesday of the 10th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "wednesdayOfThe10thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-06-13": {
+    "date": "2030-06-13",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Anthony of Padua, Priest and Doctor",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintAnthonyOfPaduaPriestAndDoctor",
+      "prioritized": false
+    }
+  },
+  "2030-06-14": {
+    "date": "2030-06-14",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Friday of the 10th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "fridayOfThe10thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-06-15": {
+    "date": "2030-06-15",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saturday of the 10th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "saturdayOfThe10thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-06-16": {
+    "date": "2030-06-16",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Trinity Sunday",
+      "type": "SOLEMNITY",
+      "color": "white",
+      "key": "trinitySunday",
+      "prioritized": true
+    }
+  },
+  "2030-06-17": {
+    "date": "2030-06-17",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Monday of the 11th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "mondayOfThe11ThWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-06-18": {
+    "date": "2030-06-18",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Tuesday of the 11th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "tuesdayOfThe11ThWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-06-19": {
+    "date": "2030-06-19",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Romuald, Abbot",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintRomualdAbbot",
+      "prioritized": false
+    }
+  },
+  "2030-06-20": {
+    "date": "2030-06-20",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Thursday of the 11th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "thursdayOfThe11ThWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-06-21": {
+    "date": "2030-06-21",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Aloysius Gonzaga, Religious",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintAloysiusGonzagaReligious",
+      "prioritized": false
+    }
+  },
+  "2030-06-22": {
+    "date": "2030-06-22",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Paulinus of Nola, Bishop/Saints John Fisher, Bishop and Thomas More, Martyrs",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintPaulinusOfNolaBishopSaintsJohnFisherBishopAndThomasMoreMartyrs",
+      "prioritized": false
+    }
+  },
+  "2030-06-23": {
+    "date": "2030-06-23",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Corpus Christi",
+      "type": "SOLEMNITY",
+      "color": "white",
+      "key": "corpusChristi",
+      "prioritized": true
+    }
+  },
+  "2030-06-24": {
+    "date": "2030-06-24",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Birth of John the Baptist",
+      "type": "SOLEMNITY",
+      "color": "white",
+      "key": "birthOfJohnTheBaptist",
+      "prioritized": true
+    }
+  },
+  "2030-06-25": {
+    "date": "2030-06-25",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Tuesday of the 12th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "tuesdayOfThe12ThWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-06-26": {
+    "date": "2030-06-26",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Wednesday of the 12th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "wednesdayOfThe12ThWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-06-27": {
+    "date": "2030-06-27",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Cyril of Alexandria, Bishop and Doctor",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintCyrilOfAlexandriaBishopAndDoctor",
+      "prioritized": false
+    }
+  },
+  "2030-06-28": {
+    "date": "2030-06-28",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Sacred Heart of Jesus",
+      "type": "SOLEMNITY",
+      "color": "white",
+      "key": "sacredHeartOfJesus",
+      "prioritized": true
+    }
+  },
+  "2030-06-29": {
+    "date": "2030-06-29",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saints Peter and Paul, Apostles",
+      "type": "SOLEMNITY",
+      "color": "red",
+      "key": "peterAndPaulApostles",
+      "prioritized": true
+    }
+  },
+  "2030-06-30": {
+    "date": "2030-06-30",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "13th Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "13ThSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-07-01": {
+    "date": "2030-07-01",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Monday of the 13th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "mondayOfThe13ThWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-07-02": {
+    "date": "2030-07-02",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Tuesday of the 13th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "tuesdayOfThe13ThWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-07-03": {
+    "date": "2030-07-03",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Thomas the Apostle",
+      "type": "FEAST",
+      "color": "white",
+      "key": "saintThomasTheApostle",
+      "prioritized": false
+    }
+  },
+  "2030-07-04": {
+    "date": "2030-07-04",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Elizabeth of Portugal",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintElizabethOfPortugal",
+      "prioritized": false
+    }
+  },
+  "2030-07-05": {
+    "date": "2030-07-05",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Anthony Zaccaria, Priest",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintAnthonyZaccariaPriest",
+      "prioritized": false
+    }
+  },
+  "2030-07-06": {
+    "date": "2030-07-06",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Maria Goretti, Virgin and Martyr",
+      "type": "OPT_MEMORIAL",
+      "color": "red",
+      "key": "saintMariaGorettiVirginAndMartyr",
+      "prioritized": false
+    }
+  },
+  "2030-07-07": {
+    "date": "2030-07-07",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "14th Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "14thSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-07-08": {
+    "date": "2030-07-08",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Monday of the 14th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "mondayOfThe14thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-07-09": {
+    "date": "2030-07-09",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saints Augustine Zhao Rong, Priest, and Companions, Martyrs",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintsAugustineZhaoRongPriestAndCompanionsMartyrs",
+      "prioritized": false
+    }
+  },
+  "2030-07-10": {
+    "date": "2030-07-10",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Wednesday of the 14th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "wednesdayOfThe14thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-07-11": {
+    "date": "2030-07-11",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Benedict of Nursia, Abbot, Patron of Europe",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintBenedictOfNursiaAbbot",
+      "prioritized": false
+    }
+  },
+  "2030-07-12": {
+    "date": "2030-07-12",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Friday of the 14th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "fridayOfThe14thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-07-13": {
+    "date": "2030-07-13",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Henry, Bishop and Martyr",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintHenryBishopAndMartyr",
+      "prioritized": false
+    }
+  },
+  "2030-07-14": {
+    "date": "2030-07-14",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "15th Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "15thSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-07-15": {
+    "date": "2030-07-15",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Bonaventure, Bishop and Doctor",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintBonaventureBishopAndDoctor",
+      "prioritized": false
+    }
+  },
+  "2030-07-16": {
+    "date": "2030-07-16",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Our Lady of Mount Carmel",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "ourLadyOfMountCarmel",
+      "prioritized": false
+    }
+  },
+  "2030-07-17": {
+    "date": "2030-07-17",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Wednesday of the 15th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "wednesdayOfThe15thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-07-18": {
+    "date": "2030-07-18",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Thursday of the 15th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "thursdayOfThe15thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-07-19": {
+    "date": "2030-07-19",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Friday of the 15th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "fridayOfThe15thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-07-20": {
+    "date": "2030-07-20",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Apollinaris",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintApollinaris",
+      "prioritized": false
+    }
+  },
+  "2030-07-21": {
+    "date": "2030-07-21",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "16th Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "16thSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-07-22": {
+    "date": "2030-07-22",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Mary Magdalene",
+      "type": "FEAST",
+      "color": "white",
+      "key": "saintMaryMagdalene",
+      "prioritized": false
+    }
+  },
+  "2030-07-23": {
+    "date": "2030-07-23",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Bridget of Sweden, Religious, Patron of Europe",
+      "type": "FEAST",
+      "color": "white",
+      "key": "saintBridgetOfSwedenReligious",
+      "prioritized": false
+    }
+  },
+  "2030-07-24": {
+    "date": "2030-07-24",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Charbel Makhlouf, Priest and Hermit",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintCharbelMakhloufPriestAndHermit",
+      "prioritized": false
+    }
+  },
+  "2030-07-25": {
+    "date": "2030-07-25",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint James, Apostle",
+      "type": "FEAST",
+      "color": "white",
+      "key": "saintJamesApostle",
+      "prioritized": false
+    }
+  },
+  "2030-07-26": {
+    "date": "2030-07-26",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saints Joachim and Anne",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintsJoachimAndAnne",
+      "prioritized": false
+    }
+  },
+  "2030-07-27": {
+    "date": "2030-07-27",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saturday of the 16th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "saturdayOfThe16thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-07-28": {
+    "date": "2030-07-28",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "17th Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "17thSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-07-29": {
+    "date": "2030-07-29",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Martha",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintMartha",
+      "prioritized": false
+    }
+  },
+  "2030-07-30": {
+    "date": "2030-07-30",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Peter Chrysologus, Bishop and Doctor",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintPeterChrysologusBishopAndDoctor",
+      "prioritized": false
+    }
+  },
+  "2030-07-31": {
+    "date": "2030-07-31",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Ignatius of Loyola, Priest",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintIgnatiusOfLoyolaPriest",
+      "prioritized": false
+    }
+  },
+  "2030-08-01": {
+    "date": "2030-08-01",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Alphonsus Maria de Liguori, Bishop and Doctor of the Church",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintAlphonsusMariaDeLiguoriBishopAndDoctorOfTheChurch",
+      "prioritized": false
+    }
+  },
+  "2030-08-02": {
+    "date": "2030-08-02",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Eusebius of Vercelli, Bishop/Saint Peter Julian Eymard, Priest",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintEusebiusOfVercelliBishopSaintPeterJulianEymardPriest",
+      "prioritized": false
+    }
+  },
+  "2030-08-03": {
+    "date": "2030-08-03",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saturday of the 17th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "saturdayOfThe17thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-08-04": {
+    "date": "2030-08-04",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "18th Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "18thSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-08-05": {
+    "date": "2030-08-05",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Dedication of the Basilica of Saint Mary Major",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "dedicationOfTheBasilicaOfSaintMaryMajor",
+      "prioritized": false
+    }
+  },
+  "2030-08-06": {
+    "date": "2030-08-06",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Transfiguration",
+      "type": "FEAST",
+      "color": "white",
+      "key": "transfiguration",
+      "prioritized": true
+    }
+  },
+  "2030-08-07": {
+    "date": "2030-08-07",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Sixtus II, Pope, and Companions, Martyrs/Saint Cajetan, Priest",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintSixtusIiPopeAndCompanionsMartyrsSaintCajetanPriest",
+      "prioritized": false
+    }
+  },
+  "2030-08-08": {
+    "date": "2030-08-08",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Dominic, Priest",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintDominicPriest",
+      "prioritized": false
+    }
+  },
+  "2030-08-09": {
+    "date": "2030-08-09",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "key": "saintTeresaBenedictaOfTheCrossEdithSteinVirginAndMartyr"
+    }
+  },
+  "2030-08-10": {
+    "date": "2030-08-10",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Lawrence of Rome, Deacon and Martyr",
+      "type": "FEAST",
+      "color": "red",
+      "key": "saintLawrenceOfRomeDeaconAndMartyr",
+      "prioritized": false
+    }
+  },
+  "2030-08-11": {
+    "date": "2030-08-11",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "19th Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "19thSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-08-12": {
+    "date": "2030-08-12",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Jane Frances de Chantal, Religious",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintJaneFrancesDeChantalReligious",
+      "prioritized": false
+    }
+  },
+  "2030-08-13": {
+    "date": "2030-08-13",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saints Pontian, Pope and Hippolytus, Priest, Martyrs",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintsPontianPopeAndHippolytusPriestMartyrs",
+      "prioritized": false
+    }
+  },
+  "2030-08-14": {
+    "date": "2030-08-14",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Maximilian Mary Kolbe, Priest and Martyr",
+      "type": "MEMORIAL",
+      "color": "red",
+      "key": "saintMaximilianMaryKolbePriestAndMartyr",
+      "prioritized": false
+    }
+  },
+  "2030-08-15": {
+    "date": "2030-08-15",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "The Assumption of the Blessed Virgin Mary",
+      "type": "SOLEMNITY",
+      "color": "white",
+      "key": "assumption",
+      "prioritized": true
+    }
+  },
+  "2030-08-16": {
+    "date": "2030-08-16",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Stephen of Hungary",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintStephenOfHungary",
+      "prioritized": false
+    }
+  },
+  "2030-08-17": {
+    "date": "2030-08-17",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saturday of the 19th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "saturdayOfThe19thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-08-18": {
+    "date": "2030-08-18",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "20th Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "20thSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-08-19": {
+    "date": "2030-08-19",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint John Eudes, Priest",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintJohnEudesPriest",
+      "prioritized": false
+    }
+  },
+  "2030-08-20": {
+    "date": "2030-08-20",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Bernard of Clairvaux, Abbot and Doctor of the Church",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintBernardOfClairvauxAbbotAndDoctorOfTheChurch",
+      "prioritized": false
+    }
+  },
+  "2030-08-21": {
+    "date": "2030-08-21",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Pius X, Pope",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintPiusXPope",
+      "prioritized": false
+    }
+  },
+  "2030-08-22": {
+    "date": "2030-08-22",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Queenship of Blessed Virgin Mary",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "queenshipOfBlessedVirginMary",
+      "prioritized": false
+    }
+  },
+  "2030-08-23": {
+    "date": "2030-08-23",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Rose of Lima, Virgin",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintRoseOfLima",
+      "prioritized": false
+    }
+  },
+  "2030-08-24": {
+    "date": "2030-08-24",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Bartholomew the Apostle",
+      "type": "FEAST",
+      "color": "white",
+      "key": "saintBartholomewTheApostle",
+      "prioritized": false
+    }
+  },
+  "2030-08-25": {
+    "date": "2030-08-25",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "21st Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "21stSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-08-26": {
+    "date": "2030-08-26",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Monday of the 21st week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "mondayOfThe21stWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-08-27": {
+    "date": "2030-08-27",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Monica",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintMonica",
+      "prioritized": false
+    }
+  },
+  "2030-08-28": {
+    "date": "2030-08-28",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Augustine of Hippo, Bishop and Doctor of the Church",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintAugustineOfHippoBishopAndDoctorOfTheChurch",
+      "prioritized": false
+    }
+  },
+  "2030-08-29": {
+    "date": "2030-08-29",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "The Beheading of Saint John the Baptist, Martyr",
+      "type": "MEMORIAL",
+      "color": "red",
+      "key": "theBeheadingOfSaintJohnTheBaptistMartyr",
+      "prioritized": false
+    }
+  },
+  "2030-08-30": {
+    "date": "2030-08-30",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Friday of the 21st week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "fridayOfThe21stWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-08-31": {
+    "date": "2030-08-31",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saturday of the 21st week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "saturdayOfThe21stWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-09-01": {
+    "date": "2030-09-01",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "22nd Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "22ndSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-09-02": {
+    "date": "2030-09-02",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Monday of the 22nd week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "mondayOfThe22ndWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-09-03": {
+    "date": "2030-09-03",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Gregory the Great, Pope and Doctor of the Church",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintGregoryTheGreatPopeAndDoctor",
+      "prioritized": false
+    }
+  },
+  "2030-09-04": {
+    "date": "2030-09-04",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Wednesday of the 22nd week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "wednesdayOfThe22ndWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-09-05": {
+    "date": "2030-09-05",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Thursday of the 22nd week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "thursdayOfThe22ndWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-09-06": {
+    "date": "2030-09-06",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Friday of the 22nd week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "fridayOfThe22ndWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-09-07": {
+    "date": "2030-09-07",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saturday of the 22nd week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "saturdayOfThe22ndWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-09-08": {
+    "date": "2030-09-08",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "23rd Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "23rdSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-09-09": {
+    "date": "2030-09-09",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Peter Claver, Priest",
+      "type": "OPT_MEMORIAL",
+      "color": "white",
+      "key": "saintPeterClaverPriest",
+      "prioritized": false
+    }
+  },
+  "2030-09-10": {
+    "date": "2030-09-10",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Tuesday of the 23rd week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "tuesdayOfThe23rdWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-09-11": {
+    "date": "2030-09-11",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Wednesday of the 23rd week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "wednesdayOfThe23rdWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-09-12": {
+    "date": "2030-09-12",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Holy Name of the Blessed Virgin Mary",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "holyNameOfTheBlessedVirginMary",
+      "prioritized": false
+    }
+  },
+  "2030-09-13": {
+    "date": "2030-09-13",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint John Chrysostom, Bishop and Doctor of the Church",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintJohnChrysostomBishopAndDoctor",
+      "prioritized": false
+    }
+  },
+  "2030-09-14": {
+    "date": "2030-09-14",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "The Exaltation of the Holy Cross",
+      "type": "FEAST",
+      "color": "red",
+      "key": "theExaltationOfTheHolyCross",
+      "prioritized": true
+    }
+  },
+  "2030-09-15": {
+    "date": "2030-09-15",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "24th Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "24thSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-09-16": {
+    "date": "2030-09-16",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs",
+      "type": "MEMORIAL",
+      "color": "red",
+      "key": "saintsCorneliusPopeAndCyprianBishopMartyrs",
+      "prioritized": false
+    }
+  },
+  "2030-09-17": {
+    "date": "2030-09-17",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Robert Bellarmine, Bishop and Doctor of the Church",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintRobertBellarmineBishopAndDoctor",
+      "prioritized": false
+    }
+  },
+  "2030-09-18": {
+    "date": "2030-09-18",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Wednesday of the 24th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "wednesdayOfThe24thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-09-19": {
+    "date": "2030-09-19",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Januarius, Bishop and Martyr",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintJanuariusBishopAndMartyr",
+      "prioritized": false
+    }
+  },
+  "2030-09-20": {
+    "date": "2030-09-20",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Andrew Kim Taegon, Priest, and Paul Chong Hasang and Companions, Martyrs",
+      "type": "MEMORIAL",
+      "color": "red",
+      "key": "saintAndrewKimTaegonPriestAndPaulChongHasangAndCompanionsMartyrs",
+      "prioritized": false
+    }
+  },
+  "2030-09-21": {
+    "date": "2030-09-21",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Matthew, Apostle and Evangelist",
+      "type": "FEAST",
+      "color": "white",
+      "key": "saintMatthewApostleAndEvangelist",
+      "prioritized": false
+    }
+  },
+  "2030-09-22": {
+    "date": "2030-09-22",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "25th Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "25thSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-09-23": {
+    "date": "2030-09-23",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "key": "saintPioOfPietrelcinaPadrePioPriest"
+    }
+  },
+  "2030-09-24": {
+    "date": "2030-09-24",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Tuesday of the 25th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "tuesdayOfThe25thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-09-25": {
+    "date": "2030-09-25",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Wednesday of the 25th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "wednesdayOfThe25thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-09-26": {
+    "date": "2030-09-26",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saints Cosmas and Damian, Martyrs",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintsCosmasAndDamianMartyrs",
+      "prioritized": false
+    }
+  },
+  "2030-09-27": {
+    "date": "2030-09-27",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Vincent de Paul, Priest",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintVincentDePaulPriest",
+      "prioritized": false
+    }
+  },
+  "2030-09-28": {
+    "date": "2030-09-28",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Wenceslaus, Martyr/Saints Lawrence Ruiz and Companions, Martyrs",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintWenceslausMartyrSaintsLawrenceRuizAndCompanionsMartyrs",
+      "prioritized": false
+    }
+  },
+  "2030-09-29": {
+    "date": "2030-09-29",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "26th Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "26thSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-09-30": {
+    "date": "2030-09-30",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Jerome, Priest and Doctor",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintJeromePriestAndDoctor",
+      "prioritized": false
+    }
+  },
+  "2030-10-01": {
+    "date": "2030-10-01",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Therese of the Child Jesus, Virgin and Doctor",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintThereseOfTheChildJesusVirginAndDoctor",
+      "prioritized": false
+    }
+  },
+  "2030-10-02": {
+    "date": "2030-10-02",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Guardian Angels",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "guardianAngels",
+      "prioritized": false
+    }
+  },
+  "2030-10-03": {
+    "date": "2030-10-03",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Thursday of the 26th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "thursdayOfThe26thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-10-04": {
+    "date": "2030-10-04",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Francis of Assisi",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintFrancisOfAssisi",
+      "prioritized": false
+    }
+  },
+  "2030-10-05": {
+    "date": "2030-10-05",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saturday of the 26th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "saturdayOfThe26thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-10-06": {
+    "date": "2030-10-06",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "27th Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "27thSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-10-07": {
+    "date": "2030-10-07",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Our Lady of the Rosary",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "ourLadyOfTheRosary",
+      "prioritized": false
+    }
+  },
+  "2030-10-08": {
+    "date": "2030-10-08",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Tuesday of the 27th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "tuesdayOfThe27thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-10-09": {
+    "date": "2030-10-09",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Denis and Companions Martyrs/Saint John Leonardi, Priest",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintDenisAndCompanionsMartyrsSaintJohnLeonardiPriest",
+      "prioritized": false
+    }
+  },
+  "2030-10-10": {
+    "date": "2030-10-10",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Thursday of the 27th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "thursdayOfThe27thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-10-11": {
+    "date": "2030-10-11",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Pope Saint John XXIII",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "popeSaintJohnXXIII",
+      "prioritized": false
+    }
+  },
+  "2030-10-12": {
+    "date": "2030-10-12",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saturday of the 27th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "saturdayOfThe27thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-10-13": {
+    "date": "2030-10-13",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "28th Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "28thSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-10-14": {
+    "date": "2030-10-14",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Callistus I, Pope and Martyr",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintCallistusIPopeAndMartyr",
+      "prioritized": false
+    }
+  },
+  "2030-10-15": {
+    "date": "2030-10-15",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Teresa of Jesus, Virgin and Doctor",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintTeresaOfJesusVirginAndDoctorOfTheChurch",
+      "prioritized": false
+    }
+  },
+  "2030-10-16": {
+    "date": "2030-10-16",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Hedwig, Religious/Saint Margaret Mary Alacoque, Virgin",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintHedwigReligiousSaintMargaretMaryAlacoqueVirgin",
+      "prioritized": false
+    }
+  },
+  "2030-10-17": {
+    "date": "2030-10-17",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Ignatius of Antioch, Bishop and Martyr",
+      "type": "MEMORIAL",
+      "color": "red",
+      "key": "saintIgnatiusOfAntiochBishopAndMartyr",
+      "prioritized": false
+    }
+  },
+  "2030-10-18": {
+    "date": "2030-10-18",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Luke the Evangelist",
+      "type": "FEAST",
+      "color": "white",
+      "key": "saintLukeTheEvangelist",
+      "prioritized": false
+    }
+  },
+  "2030-10-19": {
+    "date": "2030-10-19",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saints Jean de Brebeuf and Isaac Jogues, Priests and Companions, Martyrs/Saint Paul of the Cross, Priest",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintsJeanDeBrebeufAndIsaacJoguesPriestsAndCompanionsMartyrsSaintPaulOfTheCrossPriest",
+      "prioritized": false
+    }
+  },
+  "2030-10-20": {
+    "date": "2030-10-20",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "29th Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "29thSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-10-21": {
+    "date": "2030-10-21",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Monday of the 29th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "mondayOfThe29thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-10-22": {
+    "date": "2030-10-22",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Pope Saint John Paul II",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "popeSaintJohnPaulII",
+      "prioritized": false
+    }
+  },
+  "2030-10-23": {
+    "date": "2030-10-23",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint John of Capistrano, Priest",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintJohnOfCapistranoPriest",
+      "prioritized": false
+    }
+  },
+  "2030-10-24": {
+    "date": "2030-10-24",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Anthony Mary Claret, Bishop",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintAnthonyMaryClaretBishop",
+      "prioritized": false
+    }
+  },
+  "2030-10-25": {
+    "date": "2030-10-25",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Friday of the 29th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "fridayOfThe29thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-10-26": {
+    "date": "2030-10-26",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saturday of the 29th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "saturdayOfThe29thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-10-27": {
+    "date": "2030-10-27",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "30th Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "30thSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-10-28": {
+    "date": "2030-10-28",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saints Simon and Jude, Apostles",
+      "type": "FEAST",
+      "color": "white",
+      "key": "saintsSimonAndJudeApostles",
+      "prioritized": false
+    }
+  },
+  "2030-10-29": {
+    "date": "2030-10-29",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Tuesday of the 30th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "tuesdayOfThe30thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-10-30": {
+    "date": "2030-10-30",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Wednesday of the 30th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "wednesdayOfThe30thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-10-31": {
+    "date": "2030-10-31",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Thursday of the 30th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "thursdayOfThe30thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-11-01": {
+    "date": "2030-11-01",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "All Saints",
+      "type": "SOLEMNITY",
+      "color": "white",
+      "key": "allSaints",
+      "prioritized": true
+    }
+  },
+  "2030-11-02": {
+    "date": "2030-11-02",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "All Souls",
+      "type": "FEAST",
+      "color": "white",
+      "key": "allSouls",
+      "prioritized": false
+    }
+  },
+  "2030-11-03": {
+    "date": "2030-11-03",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "31st Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "31stSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-11-04": {
+    "date": "2030-11-04",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Charles Borromeo, Bishop",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintCharlesBorromeoBishop",
+      "prioritized": false
+    }
+  },
+  "2030-11-05": {
+    "date": "2030-11-05",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Tuesday of the 31st week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "tuesdayOfThe31stWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-11-06": {
+    "date": "2030-11-06",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Wednesday of the 31st week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "wednesdayOfThe31stWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-11-07": {
+    "date": "2030-11-07",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Thursday of the 31st week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "thursdayOfThe31stWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-11-08": {
+    "date": "2030-11-08",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Friday of the 31st week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "fridayOfThe31stWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-11-09": {
+    "date": "2030-11-09",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Dedication of the Lateran Basilica",
+      "type": "FEAST",
+      "color": "white",
+      "key": "dedicationOfTheLateranBasilica",
+      "prioritized": true
+    }
+  },
+  "2030-11-10": {
+    "date": "2030-11-10",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "32nd Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "32ndSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-11-11": {
+    "date": "2030-11-11",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Martin of Tours, Bishop",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintMartinOfToursBishop",
+      "prioritized": false
+    }
+  },
+  "2030-11-12": {
+    "date": "2030-11-12",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Josaphat, Bishop and Martyr",
+      "type": "MEMORIAL",
+      "color": "red",
+      "key": "saintJosaphatBishopAndMartyr",
+      "prioritized": false
+    }
+  },
+  "2030-11-13": {
+    "date": "2030-11-13",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Wednesday of the 32nd week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "wednesdayOfThe32ndWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-11-14": {
+    "date": "2030-11-14",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Thursday of the 32nd week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "thursdayOfThe32ndWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-11-15": {
+    "date": "2030-11-15",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Albert the Great, Bishop and Doctor",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintAlbertTheGreatBishopAndDoctor",
+      "prioritized": false
+    }
+  },
+  "2030-11-16": {
+    "date": "2030-11-16",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Margaret of Scotland/Saint Gertrude the Great, Virgin",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintMargaretOfScotlandSaintGertrudeTheGreatVirgin",
+      "prioritized": false
+    }
+  },
+  "2030-11-17": {
+    "date": "2030-11-17",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "33rd Sunday of Ordinary Time",
+      "type": "SUNDAY",
+      "color": "green",
+      "key": "33rdSundayOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-11-18": {
+    "date": "2030-11-18",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Dedication of the basilicas of Saints Peter and Paul, Apostles",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "dedicationOfTheBasilicasOfSaintsPeterAndPaulApostles",
+      "prioritized": false
+    }
+  },
+  "2030-11-19": {
+    "date": "2030-11-19",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Tuesday of the 33rd week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "tuesdayOfThe33rdWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-11-20": {
+    "date": "2030-11-20",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Wednesday of the 33rd week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "wednesdayOfThe33rdWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-11-21": {
+    "date": "2030-11-21",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Presentation of The Blessed Virgin Mary",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "presentationOfTheBlessedVirginMary",
+      "prioritized": false
+    }
+  },
+  "2030-11-22": {
+    "date": "2030-11-22",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Cecilia, Virgin and Martyr",
+      "type": "MEMORIAL",
+      "color": "red",
+      "key": "saintCeciliaVirginAndMartyr",
+      "prioritized": false
+    }
+  },
+  "2030-11-23": {
+    "date": "2030-11-23",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Clement I, Pope and Martyr/Saint Columban, Religious",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintClementIPopeAndMartyrSaintColumbanReligious",
+      "prioritized": false
+    }
+  },
+  "2030-11-24": {
+    "date": "2030-11-24",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Christ the King",
+      "type": "SOLEMNITY",
+      "color": "white",
+      "key": "christTheKing",
+      "prioritized": true
+    }
+  },
+  "2030-11-25": {
+    "date": "2030-11-25",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Catherine of Alexandria, Virgin and Martyr",
+      "type": "OPT_MEMORIAL",
+      "color": "green",
+      "key": "saintCatherineOfAlexandriaVirginAndMartyr",
+      "prioritized": false
+    }
+  },
+  "2030-11-26": {
+    "date": "2030-11-26",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Tuesday of the 34th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "tuesdayOfThe34thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-11-27": {
+    "date": "2030-11-27",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Wednesday of the 34th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "wednesdayOfThe34thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-11-28": {
+    "date": "2030-11-28",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Thursday of the 34th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "thursdayOfThe34thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-11-29": {
+    "date": "2030-11-29",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Friday of the 34th week of Ordinary Time",
+      "type": "FERIA",
+      "color": "green",
+      "key": "fridayOfThe34thWeekOfOrdinaryTime",
+      "prioritized": false
+    }
+  },
+  "2030-11-30": {
+    "date": "2030-11-30",
+    "year": 2030,
+    "season": "Ordinary Time",
+    "season_key": "Later Ordinary Time",
+    "celebration": {
+      "name": "Saint Andrew the Apostle",
+      "type": "FEAST",
+      "color": "white",
+      "key": "saintAndrewTheApostle",
+      "prioritized": false
+    }
+  },
+  "2030-12-01": {
+    "date": "2030-12-01",
+    "year": 2030,
+    "season": "Advent",
+    "season_key": "Advent",
+    "celebration": {
+      "name": "1st Sunday of Advent",
+      "type": "SUNDAY",
+      "color": "purple",
+      "key": "1stSundayOfAdvent",
+      "prioritized": false
+    }
+  },
+  "2030-12-02": {
+    "date": "2030-12-02",
+    "year": 2030,
+    "season": "Advent",
+    "season_key": "Advent",
+    "celebration": {
+      "name": "Monday of the 1st week of Advent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "mondayOfThe1stWeekOfAdvent",
+      "prioritized": false
+    }
+  },
+  "2030-12-03": {
+    "date": "2030-12-03",
+    "year": 2030,
+    "season": "Advent",
+    "season_key": "Advent",
+    "celebration": {
+      "name": "Saint Francis Xavier, Priest",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintFrancisXavierPriest",
+      "prioritized": false
+    }
+  },
+  "2030-12-04": {
+    "date": "2030-12-04",
+    "year": 2030,
+    "season": "Advent",
+    "season_key": "Advent",
+    "celebration": {
+      "name": "Saint John Damascene, Priest and Doctor",
+      "type": "OPT_MEMORIAL",
+      "color": "purple",
+      "key": "saintJohnDamascenePriestAndDoctor",
+      "prioritized": false
+    }
+  },
+  "2030-12-05": {
+    "date": "2030-12-05",
+    "year": 2030,
+    "season": "Advent",
+    "season_key": "Advent",
+    "celebration": {
+      "name": "Thursday of the 1st week of Advent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "thursdayOfThe1stWeekOfAdvent",
+      "prioritized": false
+    }
+  },
+  "2030-12-06": {
+    "date": "2030-12-06",
+    "year": 2030,
+    "season": "Advent",
+    "season_key": "Advent",
+    "celebration": {
+      "name": "Saint Nicholas, Bishop",
+      "type": "OPT_MEMORIAL",
+      "color": "purple",
+      "key": "saintNicholasBishop",
+      "prioritized": false
+    }
+  },
+  "2030-12-07": {
+    "date": "2030-12-07",
+    "year": 2030,
+    "season": "Advent",
+    "season_key": "Advent",
+    "celebration": {
+      "name": "Saint Ambrose, Bishop and Doctor",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintAmbroseBishopAndDoctor",
+      "prioritized": false
+    }
+  },
+  "2030-12-08": {
+    "date": "2030-12-08",
+    "year": 2030,
+    "season": "Advent",
+    "season_key": "Advent",
+    "celebration": {
+      "name": "2nd Sunday of Advent",
+      "type": "SUNDAY",
+      "color": "purple",
+      "key": "2ndSundayOfAdvent",
+      "prioritized": false
+    }
+  },
+  "2030-12-09": {
+    "date": "2030-12-09",
+    "year": 2030,
+    "season": "Advent",
+    "season_key": "Advent",
+    "celebration": {
+      "name": "Immaculate Conception",
+      "type": "SOLEMNITY",
+      "color": "white",
+      "key": "immaculateConception",
+      "prioritized": true
+    }
+  },
+  "2030-12-10": {
+    "date": "2030-12-10",
+    "year": 2030,
+    "season": "Advent",
+    "season_key": "Advent",
+    "celebration": {
+      "name": "Our Lady of Loreto",
+      "type": "OPT_MEMORIAL",
+      "color": "purple",
+      "key": "ourLadyOfLoreto",
+      "prioritized": false
+    }
+  },
+  "2030-12-11": {
+    "date": "2030-12-11",
+    "year": 2030,
+    "season": "Advent",
+    "season_key": "Advent",
+    "celebration": {
+      "name": "Saint Damasus I, Pope",
+      "type": "OPT_MEMORIAL",
+      "color": "purple",
+      "key": "saintDamasusIPope",
+      "prioritized": false
+    }
+  },
+  "2030-12-12": {
+    "date": "2030-12-12",
+    "year": 2030,
+    "season": "Advent",
+    "season_key": "Advent",
+    "celebration": {
+      "name": "Our Lady of Guadalupe",
+      "type": "OPT_MEMORIAL",
+      "color": "purple",
+      "key": "ourLadyOfGuadalupe",
+      "prioritized": false
+    }
+  },
+  "2030-12-13": {
+    "date": "2030-12-13",
+    "year": 2030,
+    "season": "Advent",
+    "season_key": "Advent",
+    "celebration": {
+      "name": "Saint Lucy of Syracuse, Virgin and Martyr",
+      "type": "MEMORIAL",
+      "color": "red",
+      "key": "saintLucyOfSyracuseVirginAndMartyr",
+      "prioritized": false
+    }
+  },
+  "2030-12-14": {
+    "date": "2030-12-14",
+    "year": 2030,
+    "season": "Advent",
+    "season_key": "Advent",
+    "celebration": {
+      "name": "Saint John of the Cross, Priest and Doctor",
+      "type": "MEMORIAL",
+      "color": "white",
+      "key": "saintJohnOfTheCrossPriestAndDoctor",
+      "prioritized": false
+    }
+  },
+  "2030-12-15": {
+    "date": "2030-12-15",
+    "year": 2030,
+    "season": "Advent",
+    "season_key": "Advent",
+    "celebration": {
+      "name": "3rd Sunday of Advent",
+      "type": "SUNDAY",
+      "color": "rose",
+      "key": "3rdSundayOfAdvent",
+      "prioritized": false
+    }
+  },
+  "2030-12-16": {
+    "date": "2030-12-16",
+    "year": 2030,
+    "season": "Advent",
+    "season_key": "Advent",
+    "celebration": {
+      "name": "Monday of the 3rd week of Advent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "mondayOfThe3rdWeekOfAdvent",
+      "prioritized": false
+    }
+  },
+  "2030-12-17": {
+    "date": "2030-12-17",
+    "year": 2030,
+    "season": "Advent",
+    "season_key": "Advent",
+    "celebration": {
+      "name": "Tuesday of the 3rd week of Advent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "tuesdayOfThe3rdWeekOfAdvent",
+      "prioritized": false
+    }
+  },
+  "2030-12-18": {
+    "date": "2030-12-18",
+    "year": 2030,
+    "season": "Advent",
+    "season_key": "Advent",
+    "celebration": {
+      "name": "Wednesday of the 3rd week of Advent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "wednesdayOfThe3rdWeekOfAdvent",
+      "prioritized": false
+    }
+  },
+  "2030-12-19": {
+    "date": "2030-12-19",
+    "year": 2030,
+    "season": "Advent",
+    "season_key": "Advent",
+    "celebration": {
+      "name": "Thursday of the 3rd week of Advent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "thursdayOfThe3rdWeekOfAdvent",
+      "prioritized": false
+    }
+  },
+  "2030-12-20": {
+    "date": "2030-12-20",
+    "year": 2030,
+    "season": "Advent",
+    "season_key": "Advent",
+    "celebration": {
+      "name": "Friday of the 3rd week of Advent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "fridayOfThe3rdWeekOfAdvent",
+      "prioritized": false
+    }
+  },
+  "2030-12-21": {
+    "date": "2030-12-21",
+    "year": 2030,
+    "season": "Advent",
+    "season_key": "Advent",
+    "celebration": {
+      "name": "Saint Peter Canisius, Priest and Doctor",
+      "type": "OPT_MEMORIAL",
+      "color": "purple",
+      "key": "saintPeterCanisiusPriestAndDoctor",
+      "prioritized": false
+    }
+  },
+  "2030-12-22": {
+    "date": "2030-12-22",
+    "year": 2030,
+    "season": "Advent",
+    "season_key": "Advent",
+    "celebration": {
+      "name": "4th Sunday of Advent",
+      "type": "SUNDAY",
+      "color": "purple",
+      "key": "4thSundayOfAdvent",
+      "prioritized": false
+    }
+  },
+  "2030-12-23": {
+    "date": "2030-12-23",
+    "year": 2030,
+    "season": "Advent",
+    "season_key": "Advent",
+    "celebration": {
+      "name": "Saint John of Kenty, Priest",
+      "type": "OPT_MEMORIAL",
+      "color": "purple",
+      "key": "saintJohnOfKantyPriest",
+      "prioritized": false
+    }
+  },
+  "2030-12-24": {
+    "date": "2030-12-24",
+    "year": 2030,
+    "season": "Advent",
+    "season_key": "Advent",
+    "celebration": {
+      "name": "Tuesday of the 4th week of Advent",
+      "type": "FERIA",
+      "color": "purple",
+      "key": "tuesdayOfThe4thWeekOfAdvent",
+      "prioritized": false
+    }
+  },
+  "2030-12-25": {
+    "date": "2030-12-25",
+    "year": 2030,
+    "season": "Christmas",
+    "season_key": "Christmastide",
+    "celebration": {
+      "name": "Christmas",
+      "type": "SOLEMNITY",
+      "color": "white",
+      "key": "christmas",
+      "prioritized": true
+    }
+  },
+  "2030-12-26": {
+    "date": "2030-12-26",
+    "year": 2030,
+    "season": "Christmas",
+    "season_key": "Christmastide",
+    "celebration": {
+      "name": "Saint Stephen, The First Martyr",
+      "type": "FEAST",
+      "color": "red",
+      "key": "saintStephenTheFirstMartyr",
+      "prioritized": false
+    }
+  },
+  "2030-12-27": {
+    "date": "2030-12-27",
+    "year": 2030,
+    "season": "Christmas",
+    "season_key": "Christmastide",
+    "celebration": {
+      "name": "Saint John the Apostle and Evangelist",
+      "type": "FEAST",
+      "color": "white",
+      "key": "saintJohnTheApostleAndEvangelist",
+      "prioritized": false
+    }
+  },
+  "2030-12-28": {
+    "date": "2030-12-28",
+    "year": 2030,
+    "season": "Christmas",
+    "season_key": "Christmastide",
+    "celebration": {
+      "name": "Holy Innocents, Martyrs",
+      "type": "FEAST",
+      "color": "red",
+      "key": "holyInnocentsMartyrs",
+      "prioritized": false
+    }
+  },
+  "2030-12-29": {
+    "date": "2030-12-29",
+    "year": 2030,
+    "season": "Christmas",
+    "season_key": "Christmastide",
+    "celebration": {
+      "name": "Holy Family",
+      "type": "FEAST",
+      "color": "white",
+      "key": "holyFamily",
+      "prioritized": true
+    }
+  },
+  "2030-12-30": {
+    "date": "2030-12-30",
+    "year": 2030,
+    "season": "Christmas",
+    "season_key": "Christmastide",
+    "celebration": {
+      "name": "6th day in the Octave of Christmas",
+      "type": "FERIA",
+      "color": "white",
+      "key": "6thDayInTheOctaveOfChristmas",
+      "prioritized": false
+    }
+  },
+  "2030-12-31": {
+    "date": "2030-12-31",
+    "year": 2030,
+    "season": "Christmas",
+    "season_key": "Christmastide",
+    "celebration": {
+      "name": "Saint Sylvester I, Pope",
+      "type": "OPT_MEMORIAL",
+      "color": "white",
+      "key": "saintSylvesterIPope",
+      "prioritized": false
+    }
+  }
+}

@@ -13,9 +13,10 @@ Additional endpoints:
 - GET /range/:start/:end - Date range query
 - GET /season/:season/:year - All days in a season
 - GET /feasts/:year - Upcoming feasts and solemnities
+- GET /search - Search celebrations by name
 """
 
-from flask import Flask, jsonify
+from flask import Flask, jsonify, request
 from datetime import datetime, date
 from liturgical_data import LiturgicalDataStore
 import os
@@ -33,6 +34,7 @@ def health():
         'status': 'ok',
         'service': 'bede',
         'version': '1.0.0',
+        'data_source': 'sancta_via_liturgical_calendar (Romcal 1.3.0)',
         'data_years': data_store.available_years()
     })
 
@@ -92,7 +94,7 @@ def get_range(start_date, end_date):
 def get_season(season, year):
     """Get all days in a liturgical season for a given year."""
     season = season.lower()
-    valid_seasons = ['advent', 'christmas', 'lent', 'easter', 'ordinary']
+    valid_seasons = ['advent', 'christmas', 'lent', 'eastertide', 'easter', 'ordinary', 'holy-week']
     
     if season not in valid_seasons:
         return jsonify({
@@ -112,14 +114,9 @@ def get_season(season, year):
 
 
 @app.route('/feasts/<int:year>')
-def get_feasts(year, days_ahead=30):
+def get_feasts(year):
     """Get upcoming feasts and solemnities."""
-    from flask import request
-    days_param = request.args.get('days', days_ahead)
-    try:
-        days_ahead = int(days_param)
-    except ValueError:
-        days_ahead = 30
+    days_ahead = request.args.get('days', 30, type=int)
     
     feasts = data_store.get_feasts(year, days_ahead)
     return jsonify({
@@ -130,6 +127,21 @@ def get_feasts(year, days_ahead=30):
     })
 
 
+@app.route('/search')
+def search():
+    """Search celebrations by name."""
+    query = request.args.get('q', '')
+    if not query:
+        return jsonify({'error': 'Query parameter "q" required'}), 400
+    
+    results = data_store.search_celebrations(query)
+    return jsonify({
+        'query': query,
+        'results': [_format_response(day) for day in results],
+        'count': len(results)
+    })
+
+
 @app.route('/info')
 def info():
     """Service information."""
@@ -137,7 +149,7 @@ def info():
         'service': 'bede',
         'name': 'Sancta Stack - Liturgical Calendar Service',
         'version': '1.0.0',
-        'description': 'Catholic liturgical calendar data',
+        'description': 'Catholic liturgical calendar data from sancta_via',
         'endpoints': [
             '/health',
             '/today',
@@ -145,30 +157,35 @@ def info():
             '/range/:start/:end',
             '/season/:season/:year',
             '/feasts/:year',
+            '/search?q=query',
             '/info'
         ],
         'data_source': 'sancta_via_liturgical_calendar (Romcal 1.3.0)',
-        'data_range': data_store.get_year_range()
+        'data_range': data_store.get_year_range(),
+        'total_days': len(data_store._data) if hasattr(data_store, '_data') else 0
     })
 
 
 def _format_response(day_data):
     """Format day data to match tempus-bede API."""
+    celebration = day_data.get('celebration', {})
+    
     return {
-        'date': day_data['date'].isoformat(),
-        'id': day_data['id'],
-        'name': day_data['name'],
-        'rank': day_data['rank'],
-        'season': day_data['season'],
-        'color': day_data['color'],
-        'isFeast': day_data['is_feast'],
-        'isSolemnity': day_data['is_solemnity'],
-        'isOptional': day_data['is_optional'],
+        'date': day_data['date'],
+        'id': celebration.get('key', 'weekday'),
+        'name': celebration.get('name', 'Weekday'),
+        'rank': celebration.get('type', 'FERIA'),
+        'season': day_data.get('season', 'Ordinary'),
+        'color': [celebration.get('color', 'green')],
+        'isFeast': celebration.get('type') in ['FEAST', 'SOLEMNITY', 'MEMORIAL'],
+        'isSolemnity': celebration.get('type') == 'SOLEMNITY',
+        'isOptional': celebration.get('type') == 'OPT_MEMORIAL',
         # Additional metadata
         'meta': {
-            'cycle': day_data.get('cycle'),
-            'weekday': day_data['date'].strftime('%A'),
-            'season_week': day_data.get('season_week')
+            'cycle': 'C',  # Would extract from actual data
+            'weekday': day_data.get('weekday', ''),
+            'weekOfSeason': 1,  # Would extract from actual data
+            'prioritized': celebration.get('prioritized', False)
         }
     }
 
