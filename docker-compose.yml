@@ -1,0 +1,45 @@
+version: '3.8'
+
+services:
+  bede:
+    build: ./services/bede
+    container_name: sancta-bede
+    ports:
+      - "3000:3000"
+    environment:
+      - SERVICE_NAME=bede
+      - SERVICE_PORT=3000
+    networks:
+      - sancta-network
+    restart: unless-stopped
+
+  # scriptura:
+  #   build: ./services/scriptura
+  #   container_name: sancta-scriptura
+  #   ports:
+  #     - "3001:3001"
+  #   volumes:
+  #     - scriptura-data:/data
+  #   networks:
+  #     - sancta-network
+  #   restart: unless-stopped
+
+  # doctrina:
+  #   build: ./services/doctrina
+  #   container_name: sancta-doctrina
+  #   ports:
+  #     - "3002:3002"
+  #   volumes:
+  #     - doctrina-data:/data
+  #   networks:
+  #     - sancta-network
+  #   restart: unless-stopped
+
+networks:
+  sancta-network:
+    name: sancta-network
+    driver: bridge
+
+# volumes:
+#   scriptura-data:
+#   doctrina-data:
